@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Muhammetmesutkorkmaz
+- 👀 I’m interested in Project Management 
+- 🌱 I’m currently learning Software Test Engineer - Business Analyst - Project Management 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
