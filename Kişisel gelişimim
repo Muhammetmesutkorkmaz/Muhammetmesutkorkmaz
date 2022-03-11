@@ -1,9 +1,0 @@
-İlk olarak yazılım test uzmanlığı eğitiminden başladım
-Dr.Ali gürbüz hocadan ders aldım kendisi statik testleri nasıl yapıcağımızı,testleri nasıl koşturucağımızı anlattı ve bunları nasıl dökümente edebiliceğimizi uygulamalı olarak gösterdi
-Statik ve dinamik test olarak ikiye ayırdık,statik testlerde kod kullanılmadan yapılan testler vardır ve bunlar üzerine yoğunlaştık
-İlk uygulamamız olan Flypgs.com'un işlevsel ve işlevsel olmayan testleri yaptık ve bunları dökümente ettik.(TEST SENARYOSU.xlsx)
-İkinci uygulamamız ise iskur.gov.tr sitesinin işlevsel ve işlevsel olmayan testlerini yaptık ve bunları dökümente ettik.(TEST SENARYOSU ŞABLONU.xlsx)
-Flypgs.com da' bizden bi iş akış yani workflow yapmamızı ve kullanıcı deneyimi açısıdan işlevlerine ayırmamızı istendi bunlarıda algoritma,iş akış şeması çizdik(https://drive.google.com/file/d/12K-VfBEAFWkHurkeGsGbUpzFOHoKdBNp/view?usp=sharing)
-Koray inçki hoca dersimize katıldı,artık dersleri o işliyor,kendisi test otomasyon öğreticek bize
-SE IDE aracı ile test otomasyonuna giriş yaptık 
-
